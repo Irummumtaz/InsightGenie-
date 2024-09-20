@@ -17,7 +17,10 @@ from visuals import generate_plot
 load_dotenv()
 
 # Set up environment variable for OpenAI API key
+
+
 openai_api_key = ""
+
 
 # Initialize OpenAI LLM
 llm = OpenAI(temperature=0, openai_api_key=openai_api_key)
