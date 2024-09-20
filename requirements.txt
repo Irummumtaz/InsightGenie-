@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+openai
+langchain
+fpdf
+streamlit
+plotly
+Pillow
+python-dotenv
